@@ -1,0 +1,215 @@
+
+
+
+[  
+    {    "id": 1,   
+        "chef_name": "Arun Ray",    
+        "chef_pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxSRa5IOaREFCSjP26P7n3rODLHl2otvd2vUZ4dSB0In5YaJEsskuyuvM-KcEkBN6e1Hg&usqp=CAU",    
+        "experience": "3 Years",    
+        "likes": 20,
+        "dish":[],    
+        "desc": "Arun Ray, a renowned Indian chef, expertly crafts flavorful biryanis and tantalizing fish curries along with a range of traditional dishes. His culinary prowess brings to life the vibrant and authentic flavors of India, delighting palates and transporting diners to a world of gastronomic bliss.",    
+        "recipe_num": 3,    
+        "recipe_info": [  
+            {  
+                "recipe_id": 1,
+                 "rating":4.7,       
+                "recipe_name": "Khicuri",
+                "receipe_pic":"./image/receipe-pic/khicuri.jpg",        
+                "ingredients": ["paddy", "water", "salt", "sugar", "oil"],
+                "cooking_method": "To cook biryani, layer fragrant basmati rice with marinated meat or vegetables, aromatic spices, and saffron-infused water then steam until perfectly cooked and flavors meld together."
+            },
+            {
+                "recipe_id": 2,
+                "rating":4.7,
+                "recipe_name": "Pakora",
+                "receipe_pic":"./image/receipe-pic/pakora.jpg",
+                "ingredients": ["paddy", "water", "salt", "sugar", "oil"],
+                "cooking_method": "To cook biryani, layer fragrant basmati rice with marinated meat or vegetables, aromatic spices, and saffron-infused water then steam until perfectly cooked and flavors meld together."
+            },
+            {
+                "recipe_id": 3,
+                "rating":4.7,
+                "recipe_name": "Rogan josh",
+                "receipe_pic":"./image/receipe-pic/Rogan-Josh.jpg",
+                "ingredients": ["paddy", "water", "salt", "sugar", "oil"],
+                "cooking_method": "To cook biryani, layer fragrant basmati rice with marinated meat or vegetables, aromatic spices, and saffron-infused water then steam until perfectly cooked and flavors meld together."
+            }
+            ]
+  },
+  {
+    "id": 2,
+    "chef_name": "Sanjeev Kapoor",
+    "chef_pic": "https://media.istockphoto.com/id/1221215163/photo/senior-chef-with-empty-plate.jpg?s=612x612&w=0&k=20&c=NpTZYTYLoYuhdBIER3vnFkWDew_RcmRl9BlmvpAvCTg=",
+    "experience": "5 Years",
+    "likes": 50,
+    "desc": "Sanjeev Kapoor, a renowned Indian chef, expertly crafts flavorful biryanis and tantalizing fish curries along with a range of traditional dishes. His culinary prowess brings to life the vibrant and authentic flavors of India, delighting palates and transporting diners to a world of gastronomic bliss.",
+    "recipe_num": 3,
+    "recipe_info": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Kofta",
+        "rating":4.2,
+        "receipe_pic":"./image/receipe-pic/kofta.jpg",
+        "ingredients": ["pasta", "tomatoes", "cheese", "olive oil", "garlic"],
+        "cooking_method": "Boil the pasta, sauté the garlic and tomatoes, add cheese and serve."
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "pizza",
+        "rating":4.2,
+        "receipe_pic":"./image/receipe-pic/pizza.jpg",
+        "ingredients": ["flour", "yeast", "tomato sauce", "cheese", "pepperoni"],
+        "cooking_method": "Make the dough, spread the sauce, add cheese and pepperoni, bake in the oven."
+      },
+      {
+          "recipe_id": 3,
+          "rating":4.2,
+          "recipe_name": "fish-curry",
+          "receipe_pic":"./image/receipe-pic/fish-curry.jpg",
+          "ingredients": ["paddy", "water", "salt", "sugar", "oil"],
+          "cooking_method": "To cook biryani, layer fragrant basmati rice with marinated meat or vegetables, aromatic spices, and saffron-infused water then steam until perfectly cooked and flavors meld together."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chef_name": "Vikas Khanna",
+    "chef_pic": "https://media.istockphoto.com/id/1071183342/photo/master-chef.jpg?s=612x612&w=0&k=20&c=XxdWXKik2u1tEjgvHDquI7qX0QP5GZSSsNesw9WsJ6Y=",
+    "experience": "10 Years",
+    "likes": 100,
+    "desc": "Vikas Khanna, a renowned Indian chef, expertly crafts flavorful biryanis and tantalizing fish curries along with a range of traditional dishes. His culinary prowess brings to life the vibrant and authentic flavors of India, delighting palates and transporting diners to a world of gastronomic bliss.",
+    "recipe_num": 3,
+    "recipe_info": [
+      {
+        "recipe_id": 1,
+        "rating":5.0,
+        "recipe_name": "chicken curry",
+        "receipe_pic":"./image/receipe-pic/chicken-curry.jpg",
+        "ingredients": ["chicken", "onion", "garlic", "ginger", "tomatoes"],
+        "cooking_method": "Sauté the onion, garlic, and ginger, add chicken and tomatoes, simmer for 30 minutes."
+      },
+      {
+        "recipe_id": 2,
+        "rating":5.0,
+        "recipe_name": "pizza",
+        "receipe_pic":"./image/receipe-pic/pizza.jpg",
+        "ingredients": ["flour", "yeast", "tomato sauce", "cheese", "pepperoni"],
+        "cooking_method": "Make the dough, spread the sauce, add cheese and pepperoni, bake in the oven."
+      },
+      {
+          "recipe_id": 3,
+          "rating":5.0,
+          "recipe_name": "fish-curry",
+          "receipe_pic":"./image/receipe-pic/fish-curry.jpg",
+          "ingredients": ["paddy", "water", "salt", "sugar", "oil"],
+          "cooking_method": "To cook biryani, layer fragrant basmati rice with marinated meat or vegetables, aromatic spices, and saffron-infused water then steam until perfectly cooked and flavors meld together."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chef_name": "Ranveer Brar",
+    "chef_pic": "https://www.shutterstock.com/image-photo/portrait-happy-chef-making-ok-260nw-450580597.jpg",
+    "experience": "10 Years",
+    "likes": 100,
+    "desc": "Ranveer Brar, a renowned Indian chef, expertly crafts flavorful biryanis and tantalizing fish curries along with a range of traditional dishes. His culinary prowess brings to life the vibrant and authentic flavors of India, delighting palates and transporting diners to a world of gastronomic bliss.",
+    "recipe_num": 3,
+    "recipe_info": [
+      {
+        "recipe_id": 1,
+        "rating":3.5,
+        "recipe_name": "Khicuri",
+        "receipe_pic":"./image/receipe-pic/khicuri.jpg",
+        "ingredients": ["chicken", "onion", "garlic", "ginger", "tomatoes"],
+        "cooking_method": "Sauté the onion, garlic, and ginger, add chicken and tomatoes, simmer for 30 minutes."
+      },
+      {
+        "recipe_id": 2,
+        "rating":3.5,
+        "recipe_name": "Palak paneer",
+        "receipe_pic":"./image/receipe-pic/Palak paneer.jpg",
+        "ingredients": ["flour", "yeast", "tomato sauce", "cheese", "pepperoni"],
+        "cooking_method": "Make the dough, spread the sauce, add cheese and pepperoni, bake in the oven."
+      },
+      {
+          "recipe_id": 3,
+          "rating":3.5,
+          "recipe_name": "Panipuri",
+          "receipe_pic":"./image/receipe-pic/Panipuri.jpg",
+          "ingredients": ["paddy", "water", "salt", "sugar", "oil"],
+          "cooking_method": "To cook biryani, layer fragrant basmati rice with marinated meat or vegetables, aromatic spices, and saffron-infused water then steam until perfectly cooked and flavors meld together."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chef_name": "Vineet Bhatia",
+    "chef_pic": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg",
+    "experience": "10 Years",
+    "likes": 100,
+    "desc": "Vineet Bhatia, a renowned Indian chef, expertly crafts flavorful biryanis and tantalizing fish curries along with a range of traditional dishes. His culinary prowess brings to life the vibrant and authentic flavors of India, delighting palates and transporting diners to a world of gastronomic bliss.",
+    "recipe_num": 3,
+    "recipe_info": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Tandoori chicken",
+        "rating":4.0,
+        "receipe_pic":"./image/receipe-pic/Tandoori-Chicken-Recipe.jpg",
+        "ingredients": ["chicken", "onion", "garlic", "ginger", "tomatoes"],
+        "cooking_method": "Sauté the onion, garlic, and ginger, add chicken and tomatoes, simmer for 30 minutes."
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Samosas",
+        "rating":4.0,
+        "receipe_pic":"./image/receipe-pic/samosa.jpg",
+        "ingredients": ["Flour dough", "potatoes", "peas", "cumin seeds", "coriander seeds", "garam masala", "chili powder"],
+        "cooking_method": "Make the dough, spread the sauce, add cheese and pepperoni, bake in the oven."
+      },
+      {
+          "recipe_id": 3,
+          "recipe_name": "Chana masala",
+          "rating":4.0,
+          "receipe_pic":"./image/receipe-pic/chana-masala-3.jpg",
+          "ingredients": ["paddy", "water", "salt", "sugar", "oil"],
+          "cooking_method": "To cook biryani, layer fragrant basmati rice with marinated meat or vegetables, aromatic spices, and saffron-infused water then steam until perfectly cooked and flavors meld together."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chef_name": "Madhur Jaffrey",
+    "chef_pic": "https://media.istockphoto.com/id/1142230160/photo/beautiful-chef-working-in-a-kitchen-at-a-restaurant.jpg?s=612x612&w=0&k=20&c=a_e524ohK5mfy8Ef2QyeENKQHShv7z6vv-ZztCUCeCc=",
+    "experience": "10 Years",
+    "likes": 100,
+    "desc": "Madhur Jaffrey, a renowned Indian chef, expertly crafts flavorful biryanis and tantalizing fish curries along with a range of traditional dishes. His culinary prowess brings to life the vibrant and authentic flavors of India, delighting palates and transporting diners to a world of gastronomic bliss.",
+    "recipe_num": 3,
+    "recipe_info": [
+      {
+        "recipe_id": 1,
+        "rating":4.5,
+        "recipe_name": "Biryan",
+        "receipe_pic":"./image/receipe-pic/biryani.jpg",
+        "ingredients": ["chicken", "onion", "garlic", "ginger", "tomatoes"],
+        "cooking_method": "Sauté the onion, garlic, and ginger, add chicken and tomatoes, simmer for 30 minutes."
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Butter chicken",
+        "rating":4.5,
+        "receipe_pic":"./image/receipe-pic/Butter chicken.jpg",
+        "ingredients": ["flour", "yeast", "tomato sauce", "cheese", "pepperoni"],
+        "cooking_method": "Make the dough, spread the sauce, add cheese and pepperoni, bake in the oven."
+      },
+      {
+          "recipe_id": 3,
+          "recipe_name": "fish-curry",
+          "rating":4.5,
+          "receipe_pic":"./image/receipe-pic/fish-curry.jpg",
+          "ingredients": ["paddy", "water", "salt", "sugar", "oil"],
+          "cooking_method": "To cook biryani, layer fragrant basmati rice with marinated meat or vegetables, aromatic spices, and saffron-infused water then steam until perfectly cooked and flavors meld together."
+      }
+    ]
+  }
+]
