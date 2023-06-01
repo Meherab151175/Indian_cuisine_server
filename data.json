@@ -64,7 +64,7 @@
       },
       {
           "recipe_id": 3,
-          "rating":4.2,
+          "rating":4.5,
           "recipe_name": "fish-curry",
           "receipe_pic":"./image/receipe-pic/fish-curry.jpg",
           "ingredients": ["paddy", "water", "salt", "sugar", "oil"],
