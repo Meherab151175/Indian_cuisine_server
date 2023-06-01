@@ -57,7 +57,7 @@
       {
         "recipe_id": 2,
         "recipe_name": "pizza",
-        "rating":4.2,
+        "rating":4.1,
         "receipe_pic":"./image/receipe-pic/pizza.jpg",
         "ingredients": ["flour", "yeast", "tomato sauce", "cheese", "pepperoni"],
         "cooking_method": "Make the dough, spread the sauce, add cheese and pepperoni, bake in the oven."
